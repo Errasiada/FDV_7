@@ -14,3 +14,12 @@ Añadimos un collider al muro para que el jugador no pueda atravesarlo.
 Seleccionamos sprites como atrezzo y añadimos un enemigo con una animación Idle.
 
 ![sprite3](https://user-images.githubusercontent.com/114673717/203778763-854e2be7-b135-41db-b9dc-2170d2f50e30.gif)
+
+Creamos un sprite que siga al jugador.
+
+![sprite4](https://user-images.githubusercontent.com/114673717/203782277-b13d5591-c468-493a-b735-03d53a6e251b.gif)
+
+Práctica con tilemap isométrico.
+
+![image](https://user-images.githubusercontent.com/114673717/203785423-c02397c4-2e8e-404d-be35-3147f68e48f6.png)
+
